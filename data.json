@@ -77,14 +77,14 @@
   "home_name": "Rapter Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#080b1c",
+  "secondary_background": "#0b132f",
+  "button_background": "#552ae4",
+  "button_text_color": "#ffffff",
+  "text_color": "#ffffff",
+  "color_highlight_text": "#ffffff",
+  "color_main_btn_text": "#ffffff",
+  "cta_background": "#552ae4",
   "logo": {
     "url": "/uploads/347d45a6c02016f37ec6f6a53bc7ca51.webp",
     "alt": "rapter logo"
@@ -97,9 +97,86 @@
     "url": "/uploads/99f0d52b397410a92d743e14cd97f1ee.webp",
     "alt": "rapter casino"
   },
-  "header_menu": null,
-  "footer_menu": null,
-  "footer_images": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Spellen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonussen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sport",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Live Casino",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Over ons",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contactpersonen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacybeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookiebeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Verantwoord gokken",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
+    }
+  ],
   "Slots": [
     {
       "link": "/play/",
@@ -183,9 +260,9 @@
       "question": "Wat is de minimale uitbetalingslimiet via bankoverschrijving?"
     }
   ],
-  "_generated_at": "2026-09-15T14:06:44.073Z",
+  "_generated_at": "2026-09-15T14:14:31.606Z",
   "_version": "1.0.0",
   "content_alt": "rapter register",
-  "_last_deploy": "2026-09-15T14:06:47.025Z",
-  "_deploy_trigger": "enmq7q"
+  "_last_deploy": "2026-09-15T14:14:32.186Z",
+  "_deploy_trigger": "pp08lb"
 }
