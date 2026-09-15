@@ -1,7 +1,7 @@
 {
   "name": "raptercasino.co.nl",
   "site_name": "Casino Nederland – Get 100% tot €500",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://raptercasino.co.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://raptercasino.co.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://raptercasino.co.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Rapter Casino Nederland – Get 100% tot €500\">\n<meta property=\"og:description\" content=\"Speel bij Rapter Casino en ontvang de beste en meest voordelige bonussen. Bij ons beleeft u gegarandeerd veel speelplezier.\">\n<meta property=\"og:url\" content=\"raptercasino.co.nl\">\n<meta property=\"og:site_name\" content=\"Rapter Casino\">\n<meta property=\"og:image\" content=\"https://raptercasino.co.nl//uploads/99f0d52b397410a92d743e14cd97f1ee.webp\">",
   "url": "raptercasino.co.nl",
   "template": "tupchiy",
   "language_code": "en",
@@ -260,9 +260,10 @@
       "question": "Wat is de minimale uitbetalingslimiet via bankoverschrijving?"
     }
   ],
-  "_generated_at": "2026-09-15T14:14:31.606Z",
+  "_generated_at": "2026-09-15T14:16:39.082Z",
   "_version": "1.0.0",
+  "html_head_alt": "rapter casino",
   "content_alt": "rapter register",
-  "_last_deploy": "2026-09-15T14:14:32.186Z",
-  "_deploy_trigger": "pp08lb"
+  "_last_deploy": "2026-09-15T14:16:39.743Z",
+  "_deploy_trigger": "b8p2bl"
 }
