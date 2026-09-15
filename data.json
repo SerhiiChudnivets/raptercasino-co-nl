@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": "#080b1c",
   "secondary_background": "#0b132f",
-  "button_background": "#552ae4",
+  "button_background": "#f77000",
   "button_text_color": "#ffffff",
   "text_color": "#ffffff",
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#ffffff",
-  "cta_background": "#552ae4",
+  "cta_background": "#f77000",
   "logo": {
     "url": "/uploads/347d45a6c02016f37ec6f6a53bc7ca51.webp",
     "alt": "rapter logo"
@@ -260,10 +260,10 @@
       "question": "Wat is de minimale uitbetalingslimiet via bankoverschrijving?"
     }
   ],
-  "_generated_at": "2026-09-15T14:16:39.082Z",
+  "_generated_at": "2026-09-15T14:17:45.342Z",
   "_version": "1.0.0",
   "html_head_alt": "rapter casino",
   "content_alt": "rapter register",
-  "_last_deploy": "2026-09-15T14:16:39.743Z",
-  "_deploy_trigger": "b8p2bl"
+  "_last_deploy": "2026-09-15T14:17:45.931Z",
+  "_deploy_trigger": "3n7yo8"
 }
