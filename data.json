@@ -95,9 +95,11 @@
         }
       ],
       "faq": [],
+      "globalSlotSetId": null,
       "websiteId": 160,
       "createdAt": {},
       "updatedAt": {},
+      "globalSlotSet": null,
       "popup_text": "Bonus 100% matchbonus tot €500",
       "popup_logo": "/uploads/347d45a6c02016f37ec6f6a53bc7ca51.webp",
       "hero_title": "Rapter Casino Nederland",
@@ -267,21 +269,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
-      "image_alt": "mastercard"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
     }
   ],
   "Slots": [
@@ -367,10 +354,10 @@
       "question": "Wat is de minimale uitbetalingslimiet via bankoverschrijving?"
     }
   ],
-  "_generated_at": "2026-09-16T11:44:31.537Z",
+  "_generated_at": "2026-09-17T09:51:50.749Z",
   "_version": "1.0.0",
   "html_head_alt": "rapter casino",
   "content_alt": "rapter register",
-  "_last_deploy": "2026-09-16T11:44:32.132Z",
-  "_deploy_trigger": "x728c4"
+  "_last_deploy": "2026-09-17T09:51:51.320Z",
+  "_deploy_trigger": "0t2ipp"
 }
